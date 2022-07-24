@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb688296598923840</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>688296598923840</string>
+	<key>FacebookDisplayName</key>
+	<string>ShareSocialMediaDemo</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>twitter</string>
+		<string>snapchat</string>
+		<string>whatsapp</string>
+		<string>pinterest</string>
+		<string>fb</string>
+		<string>facebook-stories</string>
+		<string>messenger</string>
+		<string>viber</string>
+		<string>instagram</string>
+		<string>instagram-stories</string>
+		<string>googlegmail</string>
+		<string>com.google.hangouts</string>
+		<string>signal</string>
+		<string>fbapi</string>
+		<string>fbapi20130214</string>
+		<string>fbapi20130410</string>
+		<string>fbapi20130702</string>
+		<string>fbapi20131010</string>
+		<string>fbapi20131219</string>
+		<string>fbapi20140410</string>
+		<string>fbapi20140116</string>
+		<string>fbapi20150313</string>
+		<string>fbapi20150629</string>
+		<string>fbapi20160328</string>
+		<string>fbauth</string>
+		<string>fb-messenger-share-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+		<string>youtube</string>
+		<string>tiktok</string>
+		<string>tiktokopensdk</string>
+		<string>tiktoksharesdk</string>
+		<string>snssdk1180</string>
+		<string>snssdk1233</string>
+		<string>snapchat</string>
+		<string>ms-outlook</string>
+		<string>readdle-spark</string>
+		<string>ymail</string>
+		<string>com.facebook.sharedSticker.backgroundVideo</string>
+		<string>com.facebook.sharedSticker.backgroundImage</string>
+	</array>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Need to save photos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Please allow this app to access photo gallery. This permission need to edit your photo.</string>
+</dict>
+</plist>
